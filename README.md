@@ -1,4 +1,4 @@
-# Superstore_sales_dataset
+# Superstore_sales_project
 This is a project on sales analysis the data used in this project is publicly available on kaggle 
 
 ### Project Overview
