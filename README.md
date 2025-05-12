@@ -1,35 +1,58 @@
-# Superstore_sales_project
-This is a project on sales analysis the data used in this project is publicly available on kaggle 
+# Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
 
-### Project Overview
+### Project Objective
 
-This data analysis project aims to provide insights into the sales performance of this superstore. By analyzing varoius aspects of sales data, i sek to identify trends, make data driven recommendations , solutions and gain a deeper understanding of this superstore performance.
+The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
+
+
 ### Data Sources
+Sales data: The primary data used  for this analysis is the sales_data.csv file containing detailed information about each sale made by the store
 
-The primary dataset used for this analysis is the superstore_dataset containing detailed information about each sales made by the store
-
-The data used is from kaggle.
-
-
-Here is the data [Dowload here](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting?select=train.csv)
-
-### Tools Used
-
+### Tools
 - Microsoft Excel
-
+  
 ### Data Cleaning and preparation
+  In the initial data preparation phase, we performed the following task;
+  1. Data cleaning and inspection
+  2. Handling missing values
+  3. Data cleaning anf formating
 
-In the intial stage of this project i performed the following tasks:
-  - Data laoding and inspection - just to check if everything is okay and if its the correct data.
-  - Data claening and formating - to make sure data is in the correct formart that can be analysed
+### Explanatory Data Analyis 
 
-### Exploratory Data Analysis (EDA)
+- Compare the sales and orders using single chart.
+
+- Which month got the highest sales and orders?
+
+- Who purchased more - Men or Women?
+
+- What are different order status in 2022?
+
+- List top 10 states contributingto the sales?
+
+- Relation between age and gender based on number of orders.
+
+- Which Channel is contributing maximum to the sales?
+
+- Highest selling category?
+
+- Percentage of Total Orders delivered
+### Data Analysis
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+### DASHBOARD
+![image](https://github.com/user-attachments/assets/471dd563-e0a0-4cb0-8d79-0e223b511ae2)
 
 
-1. Which products, categories, and regions drive the most sales?
 
-2. How do purchasing behaviors differ across customer segments?
+### Project Insight
+- Women customers are more likely to buy products compared to men (~65%).
+- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+- More than 90% of the products delivered
 
-3. What seasonal sales patterns exist and how can they guide forecasting?
-
-
+### Final Conclusion:
+To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
